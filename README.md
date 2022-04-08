@@ -1,16 +1,29 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**weslleyrosalem/weslleyrosalem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud ☁️ Services Black Belt **Red Hat**. 
 
-Here are some ideas to get you started:
+I've been 🎓 teaching Cloud, DevOps and Automatino since 2019 at [**FIAP**](https://www.fiap.com.br/mba/) for post-graduate courses. Feel free to check my repos for some codes and lectures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/weslleyrosalem">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weslleyrosalem&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleyrosalem&layout=compact&langs_count=7&theme=nord"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="WRosalem-RH" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg">
+  <img align="center" alt="WRosalem-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="WRosalem-Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+  <img align="center" alt="WRosalem-GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+  <img align="center" alt="WRosalem-Ansible" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg">
+  <img align="center" alt="WRosalem-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="WRosalem-K8s" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.youtube.com/user/rhopenshift" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/weslleyrosalem/" target="_blank"><img src="(https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a>
+ 	<a href="https://twitter.com/weslleyrosalem" target="_blank"><img src="https://img.shields.io/twitter/follow/weslleyrosalem?style=social" target="_blank"></a>
+  <a href = "mailto:weslley@rosalem.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
