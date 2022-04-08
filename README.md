@@ -17,6 +17,7 @@ I've been 🎓 teaching Cloud, DevOps and Automatino since 2019 at [**FIAP**](ht
   <img align="center" alt="WRosalem-Ansible" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg">
   <img align="center" alt="WRosalem-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="WRosalem-K8s" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">
+  <img align="center" alt="WRosalem-Visitors" height="30" width="40" src="https://visitor-badge.laobi.icu/badge?weslleyrosalem=weslleyrosalem">
 </div>
   
   ##
@@ -24,6 +25,7 @@ I've been 🎓 teaching Cloud, DevOps and Automatino since 2019 at [**FIAP**](ht
 <div> 
   <a href="https://www.youtube.com/user/rhopenshift" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/weslleyrosalem/" target="_blank"><img src="(https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a>
- 	<a href="https://twitter.com/weslleyrosalem" target="_blank"><img src="https://img.shields.io/twitter/follow/weslleyrosalem?style=social" target="_blank"></a>
+  <a href="https://twitter.com/weslleyrosalem" target="_blank"><img src="https://img.shields.io/twitter/follow/weslleyrosalem?style=for-the-badge" target="_blank"></a>
   <a href = "mailto:weslley@rosalem.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
 </div>
