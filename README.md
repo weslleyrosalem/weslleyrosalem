@@ -28,6 +28,6 @@ I've been 🎓 teaching Cloud, DevOps and Automatino since 2019 at [**FIAP**](ht
   <a href="https://twitter.com/weslleyrosalem" target="_blank"><img src="https://img.shields.io/twitter/follow/weslleyrosalem?style=for-the-badge" target="_blank"></a>
   <a href = "mailto:weslley@rosalem.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-  ![Snake animation](https://github.com/weslleyrsalem/weslleyrosalem/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/weslleyrosalem/weslleyrosalem/blob/output/github-contribution-grid-snake.svg)
   
 </div>
