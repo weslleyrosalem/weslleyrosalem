@@ -23,6 +23,7 @@ I've been 🎓 teaching Cloud, DevOps and Automatino since 2019 at [**FIAP**](ht
   <img align="center" alt="WRosalem-Ansible" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg">
   <img align="center" alt="WRosalem-Terraform" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg">
   <img align="center" alt="WRosalem-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="WRosalem-Ruby" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="WRosalem-K8s" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">
   <img align="center" alt="WRosalem-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   <img align="center" alt="WRosalem-Podman" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/podman/podman-original.svg">
