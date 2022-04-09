@@ -24,10 +24,9 @@ I've been 🎓 teaching Cloud, DevOps and Automatino since 2019 at [**FIAP**](ht
  
 <div> 
   <a href="https://www.youtube.com/user/rhopenshift" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/weslleyrosalem/" target="_blank"><img src="(https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/weslleyrosalem" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/weslleyrosalem" target="_blank"><img src="https://img.shields.io/twitter/follow/weslleyrosalem?style=for-the-badge" target="_blank"></a>
   <a href = "mailto:weslley@rosalem.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   ![Snake animation](https://github.com/weslleyrosalem/weslleyrosalem/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
