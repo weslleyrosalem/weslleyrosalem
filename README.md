@@ -12,8 +12,8 @@ I've been 🎓 teaching Cloud, DevOps and Automatino since 2019 at [**FIAP**](ht
 
 <div align="center">
   <a href="https://github.com/weslleyrosalem">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weslleyrosalem&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleyrosalem&layout=compact&langs_count=7&theme=nord"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weslleyrosalem&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleyrosalem&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="WRosalem-RH" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg">
