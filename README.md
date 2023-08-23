@@ -7,6 +7,7 @@ I've been 🎓 teaching Cloud, DevOps and Automatino since 2019 at [**FIAP**](ht
 ![](https://img.shields.io/badge/-redhat-c14438?style=flat-square&logo=red-hat&logoColor=white)
 ![](https://img.shields.io/badge/-openshift-c14438?style=flat-square&logo=red-hat-open-shift&logoColor=white)
 ![](https://img.shields.io/badge/-openstack-c14438?style=flat-square&logo=openstack&logoColor=white)
+![](https://img.shields.io/badge/-kubernetes-c14438?style=flat-square&logo=kubernetes&logoColor=white)
 
 > :octocat: [weslleyrosalem.github.io](https://weslleyrosalem.github.io)
 
@@ -40,6 +41,4 @@ I've been 🎓 teaching Cloud, DevOps and Automatino since 2019 at [**FIAP**](ht
   <a href="https://www.linkedin.com/in/weslleyrosalem" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/weslleyrosalem" target="_blank"><img src="https://img.shields.io/twitter/follow/weslleyrosalem?style=for-the-badge" target="_blank"></a>
   <a href = "mailto:weslley@rosalem.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-  ![Snake animation](https://github.com/weslleyrosalem/weslleyrosalem/blob/output/github-contribution-grid-snake.svg)
 </div>
